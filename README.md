@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Samukazin
 
-- 🔭 Hoje trabalho com front-ent
+- 🔭 Hoje trabalho com front-end
 - 💬 Estudando Typescript
 - 😄 Pronouns: fofo
 
