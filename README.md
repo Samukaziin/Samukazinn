@@ -1,8 +1,8 @@
-## Ola! Eu sou o Samukazin
+## ola! Eu sou o Samukazin
 
-- 🔭 Hoje trabalho com front-end
-- 💬 Estudando Typescript
-- 😄 Pronouns: fofo
+Sou um estudante de Análise e Desenvolvimento de Sistemas que adora ciência e programação. No momento, estou aprendendo sobre HTML, CSS e JS e planejando desenvolver aplicações web.
+
+
 
  <div>
   <a href="https://github.com/Samukazinn">
