@@ -1,4 +1,4 @@
-## ola! Eu sou o spark
+## ola! Eu sou o Samukazin
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas que adora ciência e programação. No momento, estou aprendendo sobre HTML, CSS e JS e planejando desenvolver aplicações web.
 
