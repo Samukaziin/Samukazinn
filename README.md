@@ -5,7 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas que adora ciência e 
 
 
  <div>
-  <a href="https://github.com/Samukazinn">
+  <a href="https://github.com/onxBr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samukazinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samukazinn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
