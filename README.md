@@ -1,4 +1,4 @@
-## ola! Eu sou o Samukazinn
+## ola! Eu sou o onx
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas que adora ciência e programação. No momento, estou aprendendo sobre HTML, CSS e JS e planejando desenvolver aplicações web.
 
