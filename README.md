@@ -32,5 +32,5 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas que adora ciência e 
 </div>
   
   
-  ![Snake animation](https://github.com/Samukazinn/Samukazinn/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/onxBr/onxBr/blob/output/github-contribution-grid-snake.svg)
  
